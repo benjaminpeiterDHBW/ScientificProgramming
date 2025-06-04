@@ -10,9 +10,9 @@ https://www.kaggle.com/datasets/andrewmvd/animal-faces
 ## Ziel
 Entwicklung eines KI-gestützten Programms, das digitale Bilder von Tiergesichtern analysiert und die dargestellt Tierart erkennt und klassifiziert
 - **S**: Sortierung von Bildern nach Tierarten.
-- **M**: Die KI darf maximal einen bestimmten Prozentsatz an Fehlern haben (z.B. 1%).
-- **A**: Tiere werden in der Forschung oft noch manuell Klassifiziert, bedeutet durch so eine KI kann man sich eine Menge Zeitaufwand in der Zukunft einsparen.
-- **R**: Mithilfe von Python und der Bibliothek Tensorflow, ist das Ziel definitiv umsetzbar.
+- **M**: Die KI darf maximal einen bestimmten Prozentsatz an Fehlern haben (10%).
+- **A**: Tiere werden in der Forschung oft noch manuell klassifiziert, bedeutet durch so eine KI kann man sich eine Menge Zeitaufwand in der Zukunft einsparen.
+- **R**: Mithilfe von Python und der Bibliothek PyTorch, ist das Ziel definitiv umsetzbar.
 - **T**: Fertigstellung des Projekts bis zum (einschließlich) 04.06.2025
 ## Produkteinsatz
 Das System wird primär zur Bildanalyse in wissenschaftlichen und pädagogischen Kontexten eingesetzt. Es soll auf handelsüblichen Rechnern laufen und mit Jupyter Notebook geschrieben werden.
@@ -29,13 +29,16 @@ Das System wird primär zur Bildanalyse in wissenschaftlichen und pädagogischen
 - **Modularer Aufbau** für Zukünftige Erweiterungen 
   
 ## Technische Anfordeungen
-- Programmiersprache: Python(z.b. mit TensorFlow)
+- Programmiersprache: Python(PyTorch)
 - Entwicklungsumgebung: Jupyter Notebook
-- Datensatz: Tiergesichter von Webseite Kaggle (https://www.kaggle.com/datasets/andrewmvd/animal-faces)
+- Datensatz: Tiergesichter von Webseite Kaggle 
+  - https://www.kaggle.com/datasets/andrewmvd/animal-faces
+  - https://www.kaggle.com/datasets/antobenedetti/animals
   
 ## Abgrenzungen
 - Keine Klassifikation mehrerer Tiere pro Bild
 - Keine Erkennung von Emotionen und Zustände
+  
 ## Annahmen und Risiken
 - Annahmen: 
     - Aussreichend Testdaten
