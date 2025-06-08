@@ -1,8 +1,7 @@
 # Pflichtenheft
 Projektname: KI-gestützte Klassifikation von Tiergesichtern
 
-Gruppe: Benjamin Peiter, Jonathan Jansen, Omer Butt, Julian Greiner, Timo Johannsen
-
+Gruppe: Benjamin Peiter, Jonathan Jansen, Omer Butt, Julian Greiner, Timo Johannsen <br>
 Wir als Gruppe sind alle damit einverstanden, dass wir eine einheitliche Gruppenbewertung erhalten.
 ## Einleitung
 Das vorliegende Projekt beschreibt die Anforderungen und Rahmenbedingungen für ein System zur automatischen Erkennung und Klassifikation von Tiergesichten auf Basis von KI. 
@@ -31,7 +30,7 @@ Das System wird primär zur Bildanalyse in wissenschaftlichen und pädagogischen
 - **Modularer Aufbau** für Zukünftige Erweiterungen 
   
 ## Technische Anfordeungen
-- Programmiersprache: Python(PyTorch)
+- Programmiersprache: Python (PyTorch)
 - Entwicklungsumgebung: Jupyter Notebook
 - Datensatz: Tiergesichter von Webseite Kaggle 
   - https://www.kaggle.com/datasets/andrewmvd/animal-faces
