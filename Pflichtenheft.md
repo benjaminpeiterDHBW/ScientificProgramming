@@ -1,7 +1,9 @@
 # Pflichtenheft
 Projektname: KI-gestützte Klassifikation von Tiergesichtern
 
-Gruppe 3: Benjamin Peiter, Jonathan Jansen, Omer Butt, Julian Greiner, Timo Johannsen
+Gruppe: Benjamin Peiter, Jonathan Jansen, Omer Butt, Julian Greiner, Timo Johannsen
+
+Wir als Gruppe sind alle damit einverstanden, dass wir eine einheitliche Gruppenbewertung erhalten.
 ## Einleitung
 Das vorliegende Projekt beschreibt die Anforderungen und Rahmenbedingungen für ein System zur automatischen Erkennung und Klassifikation von Tiergesichten auf Basis von KI. 
 ## Ausgangssituation
